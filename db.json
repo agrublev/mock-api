@@ -1,4 +1,4 @@
-{
+{"session":{
     "data": {
         "http_code": 200, "msg": "OK", "error_id": 0, "data": {
             "projects": [{
@@ -185,4 +185,5 @@
         "url": "/iapi/sessions/current"
     },
     "request": {}
+}
 }
