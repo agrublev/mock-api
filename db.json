@@ -1,5 +1,5 @@
  {
-    "session": {
+    "session": {"data":{
         "projects": [{
             "project_id": "1149",
             "group_id": "833620",
@@ -151,4 +151,4 @@
         "notifications_count": 0,
         "user_id": "757"
     }
-}
+               }}
