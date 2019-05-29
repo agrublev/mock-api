@@ -1,6 +1,4 @@
 {"session":{
-    "data": {"data":{
-        "http_code": 200, "msg": "OK", "error_id": 0, "data": {
             "projects": [{
                 "project_id": "1149",
                 "group_id": "833620",
@@ -185,5 +183,4 @@
         "url": "/iapi/sessions/current"
     },
     "request": {}
-}}
 }
