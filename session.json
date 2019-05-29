@@ -1,0 +1,188 @@
+{
+    "data": {
+        "http_code": 200, "msg": "OK", "error_id": 0, "data": {
+            "projects": [{
+                "project_id": "1149",
+                "group_id": "833620",
+                "group_name": "G",
+                "role_name": "Owner",
+                "role_type": "2",
+                "project_name": "A1",
+                "project_description": "12",
+                "project_unique_name": "A1_QJI",
+                "project_color": "D53D18",
+                "order": 0,
+                "f_active": true,
+                "f_favorite": false,
+                "f_can_delete": true,
+                "f_can_manage": true,
+                "f_can_leave": false,
+                "f_subtasks_adv": true,
+                "f_tasks_start_dates": false,
+                "notifications_count": 0,
+                "features": {
+                    "f_gdrive": true,
+                    "f_onedrive": true,
+                    "f_dropbox": true,
+                    "f_subtasks_adv": true,
+                    "f_tasks_start_dates": false,
+                    "f_offline_edit": true
+                },
+                "users": ["757"],
+                "applications": ["2", "3", "6", "19"]
+            }],
+            "users": [{
+                "user_id": "757",
+                "first_name": "Angel",
+                "last_name": "Grablev",
+                "avatar_url": "https://freedcamp-avatars-test.s3.amazonaws.com/d3925ae28811404321bd8c5db9f7be50.jpg",
+                "full_name": "Angel G.",
+                "email": "agrublev@gmail.com",
+                "timezone": "America/Los_Angeles"
+            }],
+            "groups": [{
+                "group_id": "833620",
+                "name": "G",
+                "description": "",
+                "group_unique_name": "G_hjc",
+                "owner_id": "757",
+                "order": 0,
+                "projects": ["1149"],
+                "applications": [],
+                "f_managed": true,
+                "features": { "f_recurrent_events": false }
+            }],
+            "permissions": {
+                "f_can_create_groups": true,
+                "f_can_create_projects": true,
+                "f_can_clone_projects": true,
+                "f_using_ms": true
+            },
+            "applications": [{
+                "app_id": "1",
+                "title": "Wall",
+                "unique_name": "wall",
+                "view_type": "group_app",
+                "singular_name": "Wall status"
+            }, {
+                "app_id": "2",
+                "title": "Tasks",
+                "unique_name": "todos",
+                "view_type": "project_app",
+                "singular_name": "Task"
+            }, {
+                "app_id": "3",
+                "title": "Discussions",
+                "unique_name": "discussions",
+                "view_type": "project_app",
+                "singular_name": "Discussion"
+            }, {
+                "app_id": "4",
+                "title": "Milestones",
+                "unique_name": "milestones",
+                "view_type": "project_app",
+                "singular_name": "Milestone"
+            }, {
+                "app_id": "5",
+                "title": "Time",
+                "unique_name": "time",
+                "view_type": "project_app",
+                "singular_name": "Time record"
+            }, {
+                "app_id": "6",
+                "title": "Files",
+                "unique_name": "files",
+                "view_type": "project_app",
+                "singular_name": "File"
+            }, {
+                "app_id": "7",
+                "title": "Invoices",
+                "unique_name": "invoices",
+                "view_type": "project_app",
+                "singular_name": "Invoice"
+            }, {
+                "app_id": "13",
+                "title": "Issue Tracker",
+                "unique_name": "bugtracker",
+                "view_type": "project_app",
+                "singular_name": "Issue"
+            }, {
+                "app_id": "14",
+                "title": "Wiki",
+                "unique_name": "wiki",
+                "view_type": "project_app",
+                "singular_name": "Wiki"
+            }, {
+                "app_id": "16",
+                "title": "CRM",
+                "unique_name": "crm",
+                "view_type": "group_app",
+                "singular_name": "CRM record"
+            }, {
+                "app_id": "17",
+                "title": "Passwords",
+                "unique_name": "passman",
+                "view_type": "group_app",
+                "singular_name": "Password"
+            }, {
+                "app_id": "19",
+                "title": "Calendar",
+                "unique_name": "calendar",
+                "view_type": "project_app",
+                "singular_name": "Calendar event"
+            }, {
+                "app_id": "20",
+                "title": "Invoices+",
+                "unique_name": "invoicesplus",
+                "view_type": "group_app",
+                "singular_name": "Invoice"
+            }, {
+                "app_id": "37",
+                "title": "Overview",
+                "unique_name": "overview",
+                "view_type": "project_app",
+                "singular_name": "Unknown"
+            }],
+            "api_keys": {
+                "google_app_id": "265055467442-uotifcpfn5pcr55e09u1g53j5u6masha.apps.googleusercontent.com",
+                "google_drive_api_key": "AIzaSyCMuqF2jdA6089aq96XX75TLlSMEDv1f-I",
+                "dropbox_app_id": "",
+                "onedrive_app_id": ""
+            },
+            "notifications_count": 0,
+            "user_id": "757"
+        }
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+        "pragma": "no-cache",
+        "date": "Wed, 29 May 2019 23:25:42 GMT",
+        "content-encoding": "gzip",
+        "x-content-type-options": "nosniff",
+        "server": "nginx",
+        "x-frame-options": "SAMEORIGIN",
+        "connection": "keep-alive",
+        "content-type": "application/json",
+        "vary": "Accept-Encoding",
+        "cache-control": "no-store, no-cache, must-revalidate",
+        "transfer-encoding": "chunked",
+        "strict-transport-security": "max-age=86400; includeSubDomains",
+        "x-backend-server": "devbox.freedcamp.com",
+        "x-xss-protection": "1; mode=block",
+        "expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "config": {
+        "transformRequest": {},
+        "transformResponse": {},
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "headers": { "Accept": "application/json", "X-Requested-With": "XMLHttpRequest", "X-API-VERSION": 2 },
+        "method": "get",
+        "params": {},
+        "url": "/iapi/sessions/current"
+    },
+    "request": {}
+}
